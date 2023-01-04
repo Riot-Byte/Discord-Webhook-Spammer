@@ -8,7 +8,7 @@ os.system("title Webhook Spammer")
 
 msg = input("Message to spam : ")
 webhook = input("Webhook : ")
-amountToSend = input("Messages to send before deleting hook : ")
+amountToSend = input("Amount of messages to send before deleting hook : ")
 
 os.system("cls")
 print("Msg : "+msg)
